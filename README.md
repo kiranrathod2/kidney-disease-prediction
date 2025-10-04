@@ -40,7 +40,7 @@ Included in this repository:
 
 ## 🗂️ **Project Structure**
 
-.
+
 ├── kidney_disease_deploy.py
 
 ├── classifier_kidney.pkl
@@ -95,4 +95,6 @@ Many thanks to dataset contributors and open-source ecosystem
 
 GitHub: https://github.com/kiranrathod2
 
-LinkedIn / Email: (add your contact info here)
+Email: kiranrathod2602@gmail.com
+
+LinkedIn: www.linkedin.com/in/kiran-rathod-605919367
