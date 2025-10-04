@@ -42,21 +42,18 @@ Included in this repository:
 
 .
 ├── kidney_disease_deploy.py
+
 ├── classifier_kidney.pkl
+
 ├── scaler_kidney.pkl
+
 ├── kidney_disease.ipynb
+
 ├── kidney_disease.csv
+
 ├── data_description_kidney_disease.txt
+
 └── README.md
-
----
-
-## 🛠️ **How to Run Locally**
-
-### **1️⃣ Clone the repo**
-```bash
-git clone https://github.com/kiranrathod2/kidney-disease-prediction.git
-cd kidney-disease-prediction
 
 ---
 
